@@ -15,6 +15,13 @@ You are free to use Google/Bing.
 
 
 
-Upon successful completion, a follow-up task will be provided to you by email. 
+Upon successful completion do the following steps: 
+Bring up a k8s cluster using the tooling of your choice
+Deploy the app in this repository to your cluster
+Aggregate and display logs and metrics from the cluster and deployed application
+Implement basic cluster and application health monitoring
+Make the app publicly accessible
+Ensure the app is highly available and fault tolerant
+
 
 
