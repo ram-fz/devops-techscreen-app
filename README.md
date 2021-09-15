@@ -13,15 +13,10 @@ Your job is to run docker-compose and ensure if:
 
 You are free to use Google/Bing. 
 
-
-
-Upon successful completion do the following steps: 
-Bring up a k8s cluster using the tooling of your choice
-Deploy the app in this repository to your cluster
-Aggregate and display logs and metrics from the cluster and deployed application
-Implement basic cluster and application health monitoring
-Make the app publicly accessible
-Ensure the app is highly available and fault tolerant
-
-
-
+1. Upon successful completion do the following steps: 
+2. Bring up a k8s cluster using the tooling of your choice
+3. Deploy the app in this repository to your cluster
+4. Aggregate and display logs and metrics from the cluster and deployed application
+5. Implement basic cluster and application health monitoring
+6. Make the app publicly accessible
+7. Ensure the app is highly available and fault tolerant
